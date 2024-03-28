@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AskHer/static/css/main.4ae6ea5e.css",
+    "main.js": "/AskHer/static/js/main.de688fc9.js",
+    "static/js/453.0f87f8b1.chunk.js": "/AskHer/static/js/453.0f87f8b1.chunk.js",
+    "index.html": "/AskHer/index.html",
+    "main.4ae6ea5e.css.map": "/AskHer/static/css/main.4ae6ea5e.css.map",
+    "main.de688fc9.js.map": "/AskHer/static/js/main.de688fc9.js.map",
+    "453.0f87f8b1.chunk.js.map": "/AskHer/static/js/453.0f87f8b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ae6ea5e.css",
+    "static/js/main.de688fc9.js"
+  ]
+}
